@@ -1,3 +1,3 @@
-# heroku-buildpack-react
+# heroku-buildpack
 
-https://github.com/nikolaytoplev/heroku-buildpack-react/raw/main/create-react-app.tgz
+* buildpack for create react app: https://github.com/nikolaytoplev/heroku-buildpack/raw/main/create-react-app.tgz
